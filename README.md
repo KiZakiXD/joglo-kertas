@@ -1,4 +1,4 @@
-# Joglo Kertas — Undangan Pernikahan Digital
+# Template Undangan Digital — Joglo Kertas
 
 Template undangan pernikahan digital satu file HTML bernuansa Jawa: bahasa Jawa halus, ornamen gunungan & lampion, tekstur kertas, untuk acara adat yang hangat.
 
